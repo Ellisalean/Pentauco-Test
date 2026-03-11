@@ -48,10 +48,10 @@ export const quizQuestions: Question[] = [
     questionText: 'El libro de Levítico se centra principalmente en:',
     points: 5,
     options: [
-      { text: 'La historia de los patriarcas.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/patriarchs/400/300' },
-      { text: 'Las leyes sobre el culto, los sacrificios y la santidad.', isCorrect: true, imageUrl: 'https://picsum.photos/seed/leviticus/400/300' },
-      { text: 'El censo del pueblo de Israel.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/census/400/300' },
-      { text: 'Los discursos de despedida de Moisés.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/moses/400/300' },
+      { text: 'La historia de los patriarcas.', isCorrect: false, imageUrl: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/b47f5211-0f67-43e4-929c-219e20aa3a21_rw_1920.png?h=f9218071c21141d21abb9d2815f2f1ef' },
+      { text: 'Las leyes sobre el culto, los sacrificios y la santidad.', isCorrect: true, imageUrl: 'https://www.primeroscristianos.com/wp-content/uploads/2023/09/160616.p.jpg' },
+      { text: 'El censo del pueblo de Israel.', isCorrect: false, imageUrl: 'https://www.unsta.edu.ar/wp-content/uploads/2022/09/la_importancia_de_los_censos_como_herramienta_cientifica_y_academica.jpg' },
+      { text: 'Los discursos de despedida de Moisés.', isCorrect: false, imageUrl: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/983b4096-4b4f-4b05-9f01-101574d8b389_rw_1920.png?h=fa905a0cff06711164c6d944b0d2ff15' },
     ],
   },
   {
