@@ -34,7 +34,7 @@ export const quizQuestions: Question[] = [
     type: QuestionType.MULTIPLE_CHOICE,
     questionText: '¿Qué evento central en Éxodo representa la liberación de Israel de la esclavitud en Egipto?',
     points: 5,
-    imageUrl: ' https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/648f4d4f-145f-45aa-a77f-91554b9bd8d4_rw_1920.png?h=0342fb84aabb4c5e614e03457f13cc3e',
+    imageUrl: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/648f4d4f-145f-45aa-a77f-91554b9bd8d4_rw_1920.png?h=0342fb84aabb4c5e614e03457f13cc3e',
     options: [
       { text: 'La entrega de los Diez Mandamientos.', isCorrect: false },
       { text: 'La Pascua y el cruce del Mar Rojo.', isCorrect: true },
