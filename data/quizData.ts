@@ -22,7 +22,7 @@ export const quizQuestions: Question[] = [
     questionText: '¿Cuál de los hijos de Jacob recibió la preeminencia y la promesa de que de él saldría el "Libertador"?',
     points: 5,
     imageUrl: 'https://blog.qservus.com/wp-content/uploads/2024/01/%C2%BFQue-es-una-promesa-de-servicio-y-por-que-es-tan-importante.webp',
-    options: [
+        options: [
       { text: 'Rubén', isCorrect: false },
       { text: 'Leví', isCorrect: false },
       { text: 'José', isCorrect: false },
@@ -34,7 +34,7 @@ export const quizQuestions: Question[] = [
     type: QuestionType.MULTIPLE_CHOICE,
     questionText: '¿Qué evento central en Éxodo representa la liberación de Israel de la esclavitud en Egipto?',
     points: 5,
-    imageUrl: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/648f4d4f-145f-45aa-a77f-91554b9bd8d4_rw_1920.png?h=0342fb84aabb4c5e614e03457f13cc3e',
+    imageUrl: ' https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/648f4d4f-145f-45aa-a77f-91554b9bd8d4_rw_1920.png?h=0342fb84aabb4c5e614e03457f13cc3e',
     options: [
       { text: 'La entrega de los Diez Mandamientos.', isCorrect: false },
       { text: 'La Pascua y el cruce del Mar Rojo.', isCorrect: true },
@@ -49,9 +49,9 @@ export const quizQuestions: Question[] = [
     points: 5,
     options: [
       { text: 'La historia de los patriarcas.', isCorrect: false, imageUrl: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/b47f5211-0f67-43e4-929c-219e20aa3a21_rw_1920.png?h=f9218071c21141d21abb9d2815f2f1ef' },
-      { text: 'Las leyes sobre el culto, los sacrificios y la santidad.', isCorrect: true, imageUrl: 'https://picsum.photos/seed/leviticus/400/300' },
-      { text: 'El censo del pueblo de Israel.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/census/400/300' },
-      { text: 'Los discursos de despedida de Moisés.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/moses/400/300' },
+      { text: 'Las leyes sobre el culto, los sacrificios y la santidad.', isCorrect: true, imageUrl: 'https://www.primeroscristianos.com/wp-content/uploads/2023/09/160616.p.jpg' },
+      { text: 'El censo del pueblo de Israel.', isCorrect: false, imageUrl: 'https://www.unsta.edu.ar/wp-content/uploads/2022/09/la_importancia_de_los_censos_como_herramienta_cientifica_y_academica.jpg' },
+      { text: 'Los discursos de despedida de Moisés.', isCorrect: false, imageUrl: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/983b4096-4b4f-4b05-9f01-101574d8b389_rw_1920.png?h=fa905a0cff06711164c6d944b0d2ff15' },
     ],
   },
   {
@@ -60,10 +60,10 @@ export const quizQuestions: Question[] = [
     questionText: '¿Qué simbolizaba el Tabernáculo en medio del campamento de Israel?',
     points: 5,
     options: [
-      { text: 'La autoridad militar de Moisés.', isCorrect: false, imageUrl: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/b47f5211-0f67-43e4-929c-219e20aa3a21_rw_1920.png?h=f9218071c21141d21abb9d2815f2f1ef' },
-      { text: 'Un recordatorio de su esclavitud en Egipto.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/egypt/400/300' },
-      { text: 'La presencia de Dios en medio de su pueblo.', isCorrect: true, imageUrl: 'https://picsum.photos/seed/tabernacle/400/300' },
-      { text: 'Un lugar para almacenar alimentos.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/food/400/300' },
+      { text: 'La autoridad militar de Moisés.', isCorrect: false, imageUrl: 'https://www.desdemitrinchera.com/wordpress/wp-content/uploads/2016/11/authority-boss-red-man.jpg' },
+      { text: 'Un recordatorio de su esclavitud en Egipto.', isCorrect: false, imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Egypt.Giza.Sphinx.02.jpg' },
+      { text: 'La presencia de Dios en medio de su pueblo.', isCorrect: true, imageUrl: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/70a84036-3da5-445b-b221-5f69dde52216_rw_1920.jpg?h=6016c24f492cc48df332bffa08d73175' },
+      { text: 'Un lugar para almacenar alimentos.', isCorrect: false, imageUrl: 'https://adminpaxzu.recilock.cl/uploads/images/2023/consejos-de-organizacion-para-el-almaen-de-un-restaurante-1.jpg' },
     ],
   },
   {
@@ -72,7 +72,7 @@ export const quizQuestions: Question[] = [
     questionText: 'En el libro de Números, ¿por qué la primera generación de israelitas no pudo entrar en la Tierra Prometida?',
     points: 5,
     options: [
-      { text: 'Por falta de fe y rebelión después del informe de los espías.', isCorrect: true, imageUrl: 'https://picsum.photos/seed/rebellion/400/300' },
+      { text: 'Por falta de fe y rebelión después del informe de los espías.', isCorrect: true, imageUrl: 'https://sodalicio.org/wp-content/uploads/2019/10/sodalicio-blog-es-posible-vivir-sin-fe-padre-juan-fernando-sardi-1.jpg' },
       { text: 'Porque prefirieron quedarse en el desierto.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/desert/400/300' },
       { text: 'A causa de una plaga.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/plague/400/300' },
       { text: 'Por un ataque de los amalecitas.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/attack/400/300' },
@@ -83,7 +83,7 @@ export const quizQuestions: Question[] = [
     type: QuestionType.MULTIPLE_CHOICE,
     questionText: '¿Cuál es el tema principal de Deuteronomio?',
     points: 5,
-    imageUrl: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/b47f5211-0f67-43e4-929c-219e20aa3a21_rw_1920.png?h=f9218071c21141d21abb9d2815f2f1ef',
+    imageUrl: 'https://picsum.photos/seed/deuteronomy/800/1000',
     options: [
       { text: 'Un recuento de la creación.', isCorrect: false },
       { text: 'Una serie de poemas y cantos.', isCorrect: false },
