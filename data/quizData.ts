@@ -83,7 +83,7 @@ export const quizQuestions: Question[] = [
     type: QuestionType.MULTIPLE_CHOICE,
     questionText: '¿Cuál es el tema principal de Deuteronomio?',
     points: 5,
-    imageUrl: 'https://picsum.photos/seed/deuteronomy/800/1000',
+    imageUrl: 'https://www.myjewishlearning.com/wp-content/uploads/2009/10/iStock-155151084-1353x900.jpg',
     options: [
       { text: 'Un recuento de la creación.', isCorrect: false },
       { text: 'Una serie de poemas y cantos.', isCorrect: false },
@@ -96,7 +96,7 @@ export const quizQuestions: Question[] = [
     type: QuestionType.MULTIPLE_CHOICE,
     questionText: '¿Qué significa el nombre "Israel" que le fue dado a Jacob?',
     points: 5,
-    imageUrl: 'https://picsum.photos/seed/israel/800/1000',
+    imageUrl: 'https://www.fairobserver.com/wp-content/uploads/2023/05/israel.jpg',
     options: [
       { text: '"Engañador"', isCorrect: false },
       { text: '"El que lucha con Dios"', isCorrect: true },
@@ -109,7 +109,7 @@ export const quizQuestions: Question[] = [
     type: QuestionType.MULTIPLE_CHOICE,
     questionText: '¿Cuál fue el propósito del sistema de sacrificios descrito en Levítico?',
     points: 5,
-    imageUrl: 'https://picsum.photos/seed/leviticus2/800/1000',
+    imageUrl: 'https://d2cxctkhfj5y1y.cloudfront.net/images/levitico_1200_800_80.jpg',
     options: [
       { text: 'Para demostrar la riqueza del pueblo.', isCorrect: false },
       { text: 'Para que el pueblo reconociera su pecado y la necesidad de expiación.', isCorrect: true },
@@ -123,10 +123,10 @@ export const quizQuestions: Question[] = [
     questionText: 'Según Deuteronomio 6:4-5 (la Shemá), ¿cuál es el mandamiento más importante?',
     points: 5,
     options: [
-      { text: 'No robarás.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/steal/400/300' },
-      { text: 'Honrarás a tu padre y a tu madre.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/parents/400/300' },
-      { text: 'Amarás al Señor tu Dios con todo tu corazón, alma y fuerzas.', isCorrect: true, imageUrl: 'https://picsum.photos/seed/love/400/300' },
-      { text: 'No cometerás adulterio.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/adultery/400/300' },
+      { text: 'No robarás.', isCorrect: false, imageUrl: 'https://www.hebrew4christians.com/Scripture/Torah/The_Shema/shema-part1.gif' },
+      { text: 'Honrarás a tu padre y a tu madre.', isCorrect: false, imageUrl: 'https://cvclavoz.com/wp-content/uploads/2024/02/como-debe-ser-un-padre-segun-la-biblia-1280x720.jpg' },
+      { text: 'Amarás al Señor tu Dios con todo tu corazón, alma y fuerzas.', isCorrect: true, imageUrl: 'https://www.hablarconjesus.com/wp-content/uploads/2023/09/Captura-de-Pantalla-2023-09-12-a-las-11.46.58.png' },
+      { text: 'No cometerás adulterio.', isCorrect: false, imageUrl: 'https://www.tedxbarcelona.com/wp-content/uploads/2016/05/foto-3.jpg0' },
     ],
   },
   {
@@ -135,10 +135,10 @@ export const quizQuestions: Question[] = [
     questionText: 'Dios hizo un pacto con ______, prometiéndole una descendencia numerosa y una tierra.',
     points: 5,
     options: [
-      { text: 'Moisés', isCorrect: false, imageUrl: 'https://picsum.photos/seed/moses/400/300' },
-      { text: 'Noé', isCorrect: false, imageUrl: 'https://picsum.photos/seed/noah/400/300' },
-      { text: 'Abraham', isCorrect: true, imageUrl: 'https://picsum.photos/seed/abraham/400/300' },
-      { text: 'David', isCorrect: false, imageUrl: 'https://picsum.photos/seed/david/400/300' },
+      { text: 'Moisés', isCorrect: false, imageUrl: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/c9f40e23-b97b-4b33-b886-2d83df9fee96_rw_1920.png?h=3e698745362edf7ffde86fa4dbcdba44' },
+      { text: 'Noé', isCorrect: false, imageUrl: 'https://www.kingdomsalvation.org/es/wp-content/uploads/2018/04/God-instructs-noah-to-build-ark-480x270.jpg' },
+      { text: 'Abraham', isCorrect: true, imageUrl: 'https://lacorriente.com/wp-content/uploads/2021/06/abraham-biblia.jpg' },
+      { text: 'David', isCorrect: false, imageUrl: 'https://www.hollywoodreporter.com/wp-content/uploads/2025/03/HDAV_S1_UT_240509_PRIJON_00234RC_3000-H-2025.jpg' },
     ],
   },
   {
