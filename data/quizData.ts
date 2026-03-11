@@ -83,7 +83,7 @@ export const quizQuestions: Question[] = [
     type: QuestionType.MULTIPLE_CHOICE,
     questionText: '¿Cuál es el tema principal de Deuteronomio?',
     points: 5,
-    imageUrl: 'https://picsum.photos/seed/deuteronomy/800/1000',
+    imageUrl: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/b47f5211-0f67-43e4-929c-219e20aa3a21_rw_1920.png?h=f9218071c21141d21abb9d2815f2f1ef',
     options: [
       { text: 'Un recuento de la creación.', isCorrect: false },
       { text: 'Una serie de poemas y cantos.', isCorrect: false },
