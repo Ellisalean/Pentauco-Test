@@ -72,10 +72,10 @@ export const quizQuestions: Question[] = [
     questionText: 'En el libro de Números, ¿por qué la primera generación de israelitas no pudo entrar en la Tierra Prometida?',
     points: 5,
     options: [
-      { text: 'Por falta de fe y rebelión después del informe de los espías.', isCorrect: true, imageUrl: 'https://sodalicio.org/wp-content/uploads/2019/10/sodalicio-blog-es-posible-vivir-sin-fe-padre-juan-fernando-sardi-1.jpg' },
-      { text: 'Porque prefirieron quedarse en el desierto.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/desert/400/300' },
-      { text: 'A causa de una plaga.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/plague/400/300' },
-      { text: 'Por un ataque de los amalecitas.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/attack/400/300' },
+      { text: 'Por falta de fe y rebelión después del informe de los espías.', isCorrect: true, imageUrl: 'https://concepto.de/wp-content/uploads/2015/05/como-hacer-un-informe-e1546883186150.jpg' },
+      { text: 'Porque prefirieron quedarse en el desierto.', isCorrect: false, imageUrl: 'https://cdn0.ecologiaverde.com/es/posts/6/8/8/ecosistema_del_desierto_caracteristicas_flora_y_fauna_1886_600.jpg' },
+      { text: 'A causa de una plaga.', isCorrect: false, imageUrl: 'https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/05/17/6464e3abec1b6.r_d.604-469-10000.jpeg' },
+      { text: 'Por un ataque de los amalecitas.', isCorrect: false, imageUrl: 'https://imagenes.elpais.com/resizer/v2/K4YHQDWHEBBFNIZVJBGF2M2HUI.jpg?auth=b4425e010214eafed7324f93ea47a86f0663ce17e9b0875663059b31381801b1&width=414' },
     ],
   },
   {
