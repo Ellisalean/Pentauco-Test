@@ -60,7 +60,7 @@ export const quizQuestions: Question[] = [
     questionText: '¿Qué simbolizaba el Tabernáculo en medio del campamento de Israel?',
     points: 5,
     options: [
-      { text: 'La autoridad militar de Moisés.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/military/400/300' },
+      { text: 'La autoridad militar de Moisés.', isCorrect: false, imageUrl: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/b47f5211-0f67-43e4-929c-219e20aa3a21_rw_1920.png?h=f9218071c21141d21abb9d2815f2f1ef' },
       { text: 'Un recordatorio de su esclavitud en Egipto.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/egypt/400/300' },
       { text: 'La presencia de Dios en medio de su pueblo.', isCorrect: true, imageUrl: 'https://picsum.photos/seed/tabernacle/400/300' },
       { text: 'Un lugar para almacenar alimentos.', isCorrect: false, imageUrl: 'https://picsum.photos/seed/food/400/300' },
