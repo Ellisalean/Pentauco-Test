@@ -8,6 +8,7 @@ export const quizQuestions: Question[] = [
     type: QuestionType.MULTIPLE_CHOICE,
     questionText: 'Según Génesis 3:15, ¿cuál es la primera promesa de redención, también conocida como el "protoevangelio"?',
     points: 5,
+    imageUrl: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/317f4879-3f0f-4a83-bb93-ed8fdff48f6b_rw_1920.png?h=67f21ac97740d69a712db3292e8d0a0b',
     options: [
       { text: 'La promesa de una tierra a Abraham.', isCorrect: false },
       { text: 'La enemistad entre la simiente de la mujer y la simiente de la serpiente.', isCorrect: true },
