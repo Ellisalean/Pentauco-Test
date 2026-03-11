@@ -126,7 +126,7 @@ export const quizQuestions: Question[] = [
       { text: 'No robarás.', isCorrect: false, imageUrl: 'https://www.hebrew4christians.com/Scripture/Torah/The_Shema/shema-part1.gif' },
       { text: 'Honrarás a tu padre y a tu madre.', isCorrect: false, imageUrl: 'https://cvclavoz.com/wp-content/uploads/2024/02/como-debe-ser-un-padre-segun-la-biblia-1280x720.jpg' },
       { text: 'Amarás al Señor tu Dios con todo tu corazón, alma y fuerzas.', isCorrect: true, imageUrl: 'https://www.hablarconjesus.com/wp-content/uploads/2023/09/Captura-de-Pantalla-2023-09-12-a-las-11.46.58.png' },
-      { text: 'No cometerás adulterio.', isCorrect: false, imageUrl: 'https://www.tedxbarcelona.com/wp-content/uploads/2016/05/foto-3.jpg0' },
+      { text: 'No cometerás adulterio.', isCorrect: false, imageUrl: 'https://www.tedxbarcelona.com/wp-content/uploads/2016/05/foto-3.jpg' },
     ],
   },
   {
