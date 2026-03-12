@@ -147,10 +147,10 @@ export const quizQuestions: Question[] = [
     questionText: 'El líder que sacó a Israel de Egipto y recibió la Ley en el Monte Sinaí fue:',
     points: 5,
     options: [
-      { text: 'Josué', isCorrect: false, imageUrl: 'https://picsum.photos/seed/joshua/400/300' },
-      { text: 'Aarón', isCorrect: false, imageUrl: 'https://picsum.photos/seed/aaron/400/300' },
-      { text: 'Moisés', isCorrect: true, imageUrl: 'https://picsum.photos/seed/moses2/400/300' },
-      { text: 'Caleb', isCorrect: false, imageUrl: 'https://picsum.photos/seed/caleb/400/300' },
+      { text: 'Josué', isCorrect: false, imageUrl: 'https://www.infobae.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-wordpress-client-uploads%2Finfobae-wp%2Fwp-content%2Fuploads%2F2017%2F10%2F05194028%2Fjosue-tierra-prometida-portada.jpg?auth=2708acadb65a7181735507d6a70a4c027892cf7a7975f6552b0770203c088253&smart=true&width=1200&height=900&quality=85' },
+      { text: 'Aarón', isCorrect: false, imageUrl: 'https://www.unarazon.net/storage/posts/November2020/vL2oTdfMmyeukfxnOd2r.jpg' },
+      { text: 'Moisés', isCorrect: true, imageUrl: 'https://lanuevafm.net/es/wp-content/uploads/2024/01/PADRE-MIGUEL.jpg' },
+      { text: 'Caleb', isCorrect: false, imageUrl: 'https://answeredfaith.com/wp-content/uploads/2024/12/bible-character-caleb.jpg' },
     ],
   },
   {
@@ -158,6 +158,7 @@ export const quizQuestions: Question[] = [
     type: QuestionType.MULTIPLE_CHOICE,
     questionText: 'El nombre del libro que significa "la segunda ley" es:',
     points: 5,
+    imageUrl: 'https://www.theologyofwork.org/assets/images/general/_1200x630_crop_center-center_82_none/deuteronomy_bible_commentary.jpg?mtime=1675913044',
     options: [
       { text: 'Levítico', isCorrect: false },
       { text: 'Deuteronomio', isCorrect: true },
@@ -170,6 +171,7 @@ export const quizQuestions: Question[] = [
     type: QuestionType.MULTIPLE_CHOICE,
     questionText: 'Los dos hijos de Isaac fueron Jacob y:',
     points: 5,
+    imageUrl: 'https://www.quickanddirtytips.com/wp-content/uploads/2008/08/Begs-the-Question.png',
     options: [
       { text: 'Ismael', isCorrect: false },
       { text: 'José', isCorrect: false },
@@ -198,6 +200,7 @@ export const quizQuestions: Question[] = [
     type: QuestionType.MULTIPLE_CHOICE,
     questionText: '¿La construcción del becerro de oro fue un acto de obediencia a las instrucciones de Dios para el culto?',
     points: 5,
+    imageUrl: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/98d313be-947d-4e09-ab4a-3415fcac223b_rw_1920.jpg?h=08b7669009a8e8a169fa4d9f88bc0cb1',
     options: [
       { text: 'Sí, fue ordenado por Moisés.', isCorrect: false },
       { text: 'Sí, era una representación aceptable de Dios.', isCorrect: false },
@@ -210,6 +213,7 @@ export const quizQuestions: Question[] = [
     type: QuestionType.MULTIPLE_CHOICE,
     questionText: '¿Qué simbolizaba el arcoíris en el pacto de Dios con Noé?',
     points: 5,
+    imageUrl: 'https://cdn0.ecologiaverde.com/es/posts/0/8/9/como_se_forma_el_arcoiris_2980_600.jpg',
     options: [
       { text: 'Una promesa de no volver a destruir la tierra con un diluvio.', isCorrect: true },
       { text: 'La división de las naciones.', isCorrect: false },
