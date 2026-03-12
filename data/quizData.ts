@@ -158,7 +158,7 @@ export const quizQuestions: Question[] = [
     type: QuestionType.MULTIPLE_CHOICE,
     questionText: 'El nombre del libro que significa "la segunda ley" es:',
     points: 5,
-    imageUrl: 'https://www.theologyofwork.org/assets/images/general/_1200x630_crop_center-center_82_none/deuteronomy_bible_commentary.jpg?mtime=1675913044',
+    imageUrl: 'https://i0.wp.com/biblequestions.info/wp-content/uploads/2019/04/Lithuania-1024x575.jpg?resize=750%2C400&ssl=1',
     options: [
       { text: 'Levítico', isCorrect: false },
       { text: 'Deuteronomio', isCorrect: true },
