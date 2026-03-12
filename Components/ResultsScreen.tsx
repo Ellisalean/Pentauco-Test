@@ -236,7 +236,7 @@ const ResultsScreen: React.FC<ResultsScreenProps> = ({ studentName, studentLastN
                             />
                         </div>
                         <h1 className="text-3xl md:text-4xl font-serif font-bold mb-3 tracking-wide">Latin Theological Seminary</h1>
-                        <p className="text-xs md:text-sm tracking-[0.25em] uppercase opacity-80 font-medium">Certificado Oficial del curso de Pentateuco P</p>
+                        <p className="text-xs md:text-sm tracking-[0.25em] uppercase opacity-80 font-medium">Certificado de Pentateuco P</p>
                     </div>
                 </div>
 
